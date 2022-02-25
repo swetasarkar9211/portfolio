@@ -1,6 +1,20 @@
 title: <p align="centre">Sweta Sarkar
 logo: /assets/img/Screenshot 2022-02-25 at 9.31.03 AM.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+
+
+description:
+  <p align="center">
+  <a href="https://www.linkedin.com/in/sweta-sarkar">LinkedIn</a> |
+  <a href="https://github.com/swetasarkar9211">GitHub</a>
+  
+  <br>   
+  I'm working on Content Moderation project as a Quality Analyst in Genpact , client Meta(Facebook)
+  Worked with CTS in incident management with B2B client John Deer.
+  Worked with WIPRO,client TalkTalk as Customer Service Manager.
+  <br>
+  </p>
+
+
+
+
 theme: jekyll-theme-minimal
