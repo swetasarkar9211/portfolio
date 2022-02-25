@@ -10,32 +10,18 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
+## Project 1
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+Worked as a Customer service Manager for WIPRO , client Talk Talk , with primary goal of solving complaints call from the customers of TalkTalk related to the service, product, malfunction & billing.
 
-## Header 2
+## Project 2
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+Worked as a service desk analyst for Cognizant Technology Solutions , client John Deere & handled incidents & escalations from business to business clients via calls ,emails & chats.
 
-### Header 3
+## Project 3
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+Working as a Quality Analyst in Genpact ,client Facebook for content moderation project
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
 
 #### Header 4
 
